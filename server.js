@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3300;
 
 //Assets
 app.use(express.static("public"));
-
+//home route
 app.get("/", (req, res) => {
   res.render("home");
 });
