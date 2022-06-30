@@ -1,0 +1,1 @@
+This is a text file which will explain the structure and workflow of the entire project
